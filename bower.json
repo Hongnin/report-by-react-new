@@ -1,0 +1,21 @@
+{
+  "name": "y",
+  "private": true,
+  "dependencies": {
+    "bootstrap-sass-official": "~3.2.0"
+  },
+  "authors": [
+    "y"
+  ],
+  "description": "",
+  "main": "",
+  "license": "y",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
